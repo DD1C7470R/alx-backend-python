@@ -8,6 +8,7 @@ from client import GithubOrgClient
 from parameterized import parameterized, parameterized_class
 from fixtures import TEST_PAYLOAD
 
+
 class TestGithubOrgClient(unittest.TestCase):
     """ Class for testing GithubOrgClient """
 
